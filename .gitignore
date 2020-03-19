@@ -5,3 +5,6 @@
 *.csv
 fma_metadata/*
 */maps/*
+*.db
+*.pyc
+*/__pycache__/*
