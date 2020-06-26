@@ -8,3 +8,7 @@ fma_metadata/*
 *.db
 *.pyc
 */__pycache__/*
+*.xlsx
+*.xls
+*.png
+*.jpg
