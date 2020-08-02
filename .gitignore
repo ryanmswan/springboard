@@ -12,3 +12,4 @@ fma_metadata/*
 *.xls
 *.png
 *.jpg
+*.json
